@@ -1,11 +1,11 @@
 # BinarySearchTree
-Binary Search Tree with generics and recursion
-Created June 8th 2019
+* Binary Search Tree with generics and recursion
+* Created June 8th 2019
 
 -------------------------------------------------------------------------------
 ## Overview
-This is a binary search tree with generics and recursion.
-Serves as an exercise for the implementation of Nodes and Binary Trees.
+* This is a binary search tree with generics and recursion.
+* Serves as an exercise for the implementation of Nodes and Binary Trees.
 
 -------------------------------------------------------------------------------
 ### Classes
@@ -26,11 +26,11 @@ Serves as an exercise for the implementation of Nodes and Binary Trees.
    * search(E data)
      * This function returns the recursive function for search(Node< E > node, E data)
    * search(Node< E > node, E data)
-     * This function will return the where the searched node is
+     * This function will return the where the searched node is as a Node < E > data type
    * insert(E data)
      * This function is the recursive function for insert(Node< E > node, E data)
    * insert(Node< E > node, E data)
-     * This function will add a new node to the tree
+     * This function will add a new node to the tree of Node < E > data type
    * deleteValue(E value)
      * This function is the recursive function for deleteValue(Node< E > node, E value)
    * deleteValue(Node< E > node, E value)
