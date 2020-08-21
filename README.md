@@ -31,7 +31,7 @@ This is a binary search tree with generics and recursion.
    * insert(Node<<E>> node, E data)
      * This function will add a new node to the tree
    * deleteValue(E value)
-     * This function is the recursive function for deleteValue(Node<<E>> node, E value)
+     * This function is the recursive function for deleteValue(Node<< E >> node, E value)
    * deleteValue(Node<<E>> node, E value)
      * This function will delete a node in the tree
    * findMax(Node<<E>> subtree)
