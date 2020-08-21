@@ -5,7 +5,7 @@ Created June 8th 2019
 -------------------------------------------------------------------------------
 ## Overview
 This is a binary search tree with generics and recursion.
-Serves as an exercise for the implementation of Nodes and Binary Trees
+Serves as an exercise for the implementation of Nodes and Binary Trees.
 
 -------------------------------------------------------------------------------
 ### Classes
